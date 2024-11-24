@@ -11,6 +11,7 @@
         <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
         <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
         <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
+        <Platforms>AnyCPU;x64</Platforms>
     </PropertyGroup>
     <PropertyGroup>
         <DalamudLibPath>$(AppData)\XIVLauncher\addon\Hooks\dev</DalamudLibPath>
