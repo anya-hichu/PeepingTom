@@ -10,10 +10,10 @@ using Dalamud.Game.ClientState.Objects.SubKinds;
 using Dalamud.Game.ClientState.Objects.Types;
 using Dalamud.Game.Text;
 using Dalamud.Plugin.Services;
-using PeepingTom.Ipc;
-using PeepingTom.Resources;
+using PeepingTomZ.Ipc;
+using PeepingTomZ.Resources;
 
-namespace PeepingTom {
+namespace PeepingTomZ {
     internal class TargetWatcher : IDisposable {
         private Plugin Plugin { get; }
 

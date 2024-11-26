@@ -12,13 +12,13 @@ using Dalamud.Game.Text;
 using Dalamud.Game.Text.SeStringHandling;
 using Dalamud.Game.Text.SeStringHandling.Payloads;
 using Dalamud.Interface.Utility;
-using PeepingTom.Ipc;
-using PeepingTom.Resources;
+using PeepingTomZ.Ipc;
+using PeepingTomZ.Resources;
 using Dalamud.Interface.ImGuiFileDialog;
 using Dalamud.Interface;
 using FFXIVClientStructs.FFXIV.Client.UI.Agent;
 
-namespace PeepingTom {
+namespace PeepingTomZ {
     internal class PluginUi : IDisposable {
         private Plugin Plugin { get; }
 

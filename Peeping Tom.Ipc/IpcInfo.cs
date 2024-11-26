@@ -1,9 +1,9 @@
 ﻿using Dalamud.Plugin;
 using Dalamud.Plugin.Ipc;
-using PeepingTom.Ipc.From;
-using PeepingTom.Ipc.To;
+using PeepingTomZ.Ipc.From;
+using PeepingTomZ.Ipc.To;
 
-namespace PeepingTom.Ipc {
+namespace PeepingTomZ.Ipc {
     public static class IpcInfo {
         public const string FromRegistrationName = "PeepingTom.From";
         public const string ToRegistrationName = "PeepingTom.To";

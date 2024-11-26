@@ -5,7 +5,7 @@ using Dalamud.Game.Text.SeStringHandling;
 using Dalamud.Plugin.Services;
 using Newtonsoft.Json;
 
-namespace PeepingTom.Ipc {
+namespace PeepingTomZ.Ipc {
     [Serializable]
     public class Targeter {
         [JsonConverter(typeof(SeStringConverter))]

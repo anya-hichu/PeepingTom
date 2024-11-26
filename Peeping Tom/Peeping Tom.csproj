@@ -2,10 +2,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>net8-windows</TargetFramework>
-        <RootNamespace>PeepingTom</RootNamespace>
+        <RootNamespace>PeepingTomZ</RootNamespace>
         <LangVersion>latest</LangVersion>
         <Nullable>enable</Nullable>
-        <AssemblyName>PeepingTom</AssemblyName>
+        <AssemblyName>PeepingTomZ</AssemblyName>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
         <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>

@@ -5,10 +5,10 @@ using System.Globalization;
 using Dalamud.Game.ClientState.Objects;
 using Dalamud.IoC;
 using Dalamud.Plugin.Services;
-using PeepingTom.Resources;
+using PeepingTomZ.Resources;
 using Lumina.Excel.Sheets;
 
-namespace PeepingTom {
+namespace PeepingTomZ {
     // ReSharper disable once ClassNeverInstantiated.Global
     public class Plugin : IDalamudPlugin {
         internal static string Name => "Peeping Tom";

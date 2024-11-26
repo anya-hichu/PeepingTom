@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PeepingTom.Ipc.To {
+namespace PeepingTomZ.Ipc.To {
     [Serializable]
     public class RequestTargetersMessage : IToMessage {
     }
